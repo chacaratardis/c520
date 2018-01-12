@@ -1,10 +1,11 @@
 package routers
 
 import (
-	"github.com/chacaratardis/c520/controllers"
 	"github.com/astaxie/beego"
+	"github.com/chacaratardis/c520/controllers"
 )
 
 func init() {
-    beego.Router("/", &controllers.MainController{})
+	beego.Router("/", &controllers.MainController{})
+	beego.Router("/comofunciona", &controllers.ComoFuncionaController{})
 }
