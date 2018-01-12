@@ -16,25 +16,25 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-            <a class="navbar-brand" href="#">
-                <img src="/static/img/logo.png" alt="Crie520" title="crie520" />
+            <a class="navbar-brand" href="/">
+                <img src="/static/img/logo.png" alt="Crie520" title="Crie520" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
                 aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
-                <ul class="navbar-nav mr-auto nav justify-content-end">
+                <ul class="navbar-nav mr-auto nav">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Cadastrar
-                            <span class="sr-only">(current)</span>
-                        </a>
+                        <a class="nav-link" href="/comofunciona">Como Funciona</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav nav justify-content-end">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Cadastrar</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Entrar
-                            <span class="sr-only"> (current)
-                            </span>
-                        </a>
+                        <a class="nav-link" href="#">Entrar</a>
                     </li>
                 </ul>
             </div>
@@ -49,8 +49,9 @@
             <p class="float-right">
                 <a href="#">Voltar ao topo</a>
             </p>
-            <p>&copy; 2018 Company, Inc. &middot;
-                <a href="#">Termos de uso</a>
+            <p>&copy; 2018 Crie520, Inc. &middot;
+                <a href="#">Termos de uso</a> &middot;
+                <a href="#">Contato</a>
             </p>
         </footer>
     </main>
