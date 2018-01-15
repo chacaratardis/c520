@@ -35,6 +35,9 @@
                             <h1>Poste seus an&uacute;ncios aqui.</h1>
                             <p>Caso queira promover seu produto ou empresa, voc&ecirc; poder&aacute; postar seus an&uacute;ncios
                                 no site.</p>
+                            <p>
+                                <a class="btn btn-lg btn-primary" href="#" role="button">Cadastre-se</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -56,9 +59,6 @@
                     <h2>Trabalho</h2>
                     <p>Encontre trabalho facilmente, com diversos acess&oacute;rios proporcionados pelo sistema para voc&ecirc;
                         come&ccedil;ar a trabalhar rapidamente.</p>
-                    <p>
-                        <a class="btn btn-secondary" href="#" role="button">Ver detalhes &raquo;</a>
-                    </p>
                 </div>
                 <div class="col-lg-4">
                     <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image"
@@ -66,27 +66,21 @@
                     <h2>Contratos</h2>
                     <p>Contrate pessoas com rapidez. Poste oportunidades de trabalho com velocidade e veja o perfil dos trabalhadores
                         que se interessaram.</p>
-                    <p>
-                        <a class="btn btn-secondary" href="#" role="button">Ver detalhes &raquo;</a>
-                    </p>
                 </div>
                 <div class="col-lg-4">
                     <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image"
                         width="140" height="140">
                     <h2>An&uacute;ncios</h2>
                     <p>Aumente a popularidade de sua empresa ou produto postando suas propagandas aqui por uma pequena taxa.</p>
-                    <p>
-                        <a class="btn btn-secondary" href="#" role="button">Ver detalhes &raquo;</a>
-                    </p>
                 </div>
             </div>
             <hr class="featurette-divider">
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading">First featurette heading.
+                    <h2 class="featurette-heading">Simples e &uacute;til.
                         <span class="text-muted">It'll blow your mind.</span>
                     </h2>
-                    <p class="lead">com um design simples, o Crie520&copy; ir&aacute; te ajudar a conseguir um trabalho ou a contratatar
+                    <p class="lead">com um design leve, o Crie520&copy; ir&aacute; te ajudar a conseguir um trabalho ou a contratatar
                         um trabalhador facilmente. Pois o sistema tem um m&eacute;todo de filtragem para que os trabalhadores
                         e contratantes consigam encontrar o trabalho perfeito ou a pessoa certa.
                     </p>
@@ -105,7 +99,7 @@
                         coisas como pagamento, local de trabalho ou at&eacute; mesmo o projeto em si.
                     </p>
                     <p>
-                        <a class="btn btn-secondary" href="#" role="button">Cadastre-se &raquo;</a>
+                        <a class="btn btn-lg btn-primary" href="#" role="button">Cadastre-se</a>
                     </p>
                 </div>
                 <div class="col-md-5 order-md-1">
