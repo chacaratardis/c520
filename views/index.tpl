@@ -1,5 +1,11 @@
 {{ template "layout.tpl" . }}
 
+{{ define "htmltitle" }}
+
+Home Page |Crie520
+
+{{end}}
+
 {{ define "content" }}
         <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">

@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="|/static/img/logo.png">
-    <title>HomePage-Crie520</title>
+    <title>{{ block "htmltitle" . }}{{ end }}</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy"
         crossorigin="anonymous">
     <link href="/static/css/site.css" rel="stylesheet">
@@ -34,7 +34,7 @@
                         <a class="nav-link" href="#">Cadastrar</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Entrar</a>
+                        <a class="nav-link" href="/entrar">Entrar</a>
                     </li>
                 </ul>
             </div>
