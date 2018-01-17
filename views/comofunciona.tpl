@@ -1,5 +1,11 @@
 {{ template "layout.tpl" . }}
 
+{{ define "htmltitle" }}
+
+Como Funciona |Crie520
+
+{{end}}
+
 {{ define "content" }}
 
 <div class="container marketing">
