@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="|/static/img/logo.png">
+    <link rel="icon" href="/static/img/logo.png">
     <title>{{ block "htmltitle" . }}{{ end }}</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy"
         crossorigin="anonymous">
@@ -46,9 +46,6 @@
         {{ block "content" . }}{{ end }}
         
         <footer class="container">
-            <p class="float-right">
-                <a href="#">Voltar ao topo</a>
-            </p>
             <p>&copy; 2018 Crie520, Inc. &middot;
                 <a href="#">Termos de uso</a> &middot;
                 <a href="#">Contato</a>
