@@ -45,7 +45,7 @@
         <footer class="container">
             <p>&copy; 2018 Crie520, Inc. &middot;
                 <a href="/termos">Termos de uso</a> &middot;
-                <a href="#">Contato</a>
+                <a href="/contato">Contato</a>
             </p>
         </footer>
     </main>
