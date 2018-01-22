@@ -16,7 +16,10 @@ Como Funciona |Crie520
                 <span class="text-muted">It'll blow your mind.</span>
             </h2>
             <p class="lead">O Crie520 é um website criado para facilitar a procura de emprego ou a procura de m&amacr;o de obra. Ele contém
-                acess&oacute;rios que agilizar&amacr;o processo de contrata&ccedil;&amacr;o.</p>
+                acess&oacute;rios que agilizar&amacr;o processo de contrata&ccedil;&amacr;o, al&eacute;m de ser simples e
+                leve. </p>
+            <p class="lead">Para se tornar um usu&aacute;rio voc&ecirc; s&oacute; precisa de preencher um pequeno formul&aacute;rio contendo
+                a sua idade, nome e endere&ccedil;o de E-mail.</p>
         </div>
         <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
