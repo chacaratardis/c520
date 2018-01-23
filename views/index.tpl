@@ -84,7 +84,7 @@ Home Page |Crie520
         <div class="col-md-7">
             <h2 class="featurette-heading">Simples e &uacute;til
             </h2>
-            <p class="lead">Com um design leve, o Crie520&copy; ir&aacute; te ajudar a conseguir um trabalho ou a contratatar um trabalhador
+            <p class="lead">Com um design leve, o Crie520&copy; ir&aacute; te ajudar a conseguir um trabalho ou a contratar um trabalhador
                 facilmente. Pois o sistema tem um m&eacute;todo de filtragem para que os trabalhadores e contratantes consigam
                 encontrar o trabalho perfeito ou a pessoa certa.
             </p>

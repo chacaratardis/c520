@@ -32,7 +32,9 @@ Cadastrar |Crie520
         <input type="password" id="inputPassword" class="form-control" placeholder="confirme a senha" required>
         <p>J&aacute; &eacute; um usu&aacute;rio? Ent&amacr;o
             <a href="/entrar">Entre</a>.</p>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Cadastrar</button>
+        <a href="/lista">
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Cadastrar</button>
+        </a>
     </form>
     <br/>
     <br/>

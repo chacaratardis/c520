@@ -21,7 +21,9 @@ Entrar |Crie520
         <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required>
         <p>N&amacr;o &eacute; usu&aacute;rio? Ent&amacr;o
             <a href="/cadastrar">cadastre-se</a>.</p>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+        <a href="/lista">
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+        </a>
     </form>
     <br/>
     <br/>

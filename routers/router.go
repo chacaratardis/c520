@@ -12,4 +12,8 @@ func init() {
 	beego.Router("/cadastrar", &controllers.CadastrarController{})
 	beego.Router("/termos", &controllers.TermosController{})
 	beego.Router("/contato", &controllers.ContatoController{})
+	beego.Router("/profile", &controllers.ProfileController{})
+	beego.Router("/lista", &controllers.ListaController{})
+	beego.Router("/criar", &controllers.CriarController{})
+	beego.Router("/chat", &controllers.ChatController{})
 }
