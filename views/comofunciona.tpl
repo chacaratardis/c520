@@ -60,7 +60,7 @@ Como Funciona |Crie520
             <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent
                 commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
             <p>
-                <a class="btn btn-lg btn-primary" href="/cadastrar" role="button">Cadastre-se</a>
+                <a class="btn btn-lg btn-danger" href="/cadastrar" role="button">Cadastre-se</a>
             </p>
         </div>
         <div class="col-md-5 order-md-1">

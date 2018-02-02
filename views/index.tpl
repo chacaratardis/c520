@@ -18,7 +18,7 @@ Home Page |Crie520
         <div class="carousel-item active">
             <img class="first-slide" src="/static/img/carousel1.png" alt="First slide">
             <div class="container">
-                <div class="carousel-caption text-left">
+                <div class="carousel-caption text-left panelcarrosel">
                     <h1>Encontre trabalho r&aacute;pido.</h1>
                     <p>Com esse sistema voc&ecirc; ir&aacute; encontrar trabalho com velocidade e poder&aacute; criar seu grupo
                         de clientes facilmente.</p>
@@ -28,7 +28,7 @@ Home Page |Crie520
         <div class="carousel-item">
             <img class="second-slide" src="/static/img/carousel2.png" alt="Second slide">
             <div class="container">
-                <div class="carousel-caption">
+                <div class="carousel-caption  panelcarrosel">
                     <h1>Encontre trabalhadores r&aacute;pido.</h1>
                     <p>Voc&ecirc; tamb&eacute;m poder&aacute; postar oportunidades de trabalho e criar equipes para trabalhar
                         pra voc&ecirc;.</p>
@@ -38,13 +38,13 @@ Home Page |Crie520
         <div class="carousel-item">
             <img class="third-slide" src="/static/img/carousel3.png" alt="Third slide">
             <div class="container">
-                <div class="carousel-caption text-right">
+                <div class="carousel-caption  panelcarrosel">
                     <h1>Poste seus an&uacute;ncios aqui.</h1>
                     <p>Caso queira promover seu produto ou empresa, voc&ecirc; poder&aacute; postar seus an&uacute;ncios no
                         site.
                     </p>
                     <p>
-                        <a class="btn btn-lg btn-primary" href="/cadastrar" role="button">Cadastre-se</a>
+                        <a class="btn btn-lg btn-danger" href="/cadastrar" role="button">Cadastre-se</a>
                     </p>
                 </div>
             </div>
@@ -90,7 +90,7 @@ Home Page |Crie520
             </p>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="/static/img/feature1.png" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="/static/img/feature1.png" width="400" height="400" alt="Generic placeholder image">
         </div>
     </div>
     <hr class="featurette-divider">
@@ -102,11 +102,11 @@ Home Page |Crie520
                 como pagamento, local de trabalho ou at&eacute; mesmo o projeto em si.
             </p>
             <p>
-                <a class="btn btn-lg btn-primary" href="/cadastrar" role="button">Cadastre-se</a>
+                <a class="btn btn-lg btn-danger" href="/cadastrar" role="button">Cadastre-se</a>
             </p>
         </div>
         <div class="col-md-5 order-md-1">
-            <img class="featurette-image img-fluid mx-auto" src="/static/img/feature2.png" alt="Generic placeholder image">
+            <img class="featurette-image img-fluid mx-auto" src="/static/img/feature2.png" width="350" height="350" alt="Generic placeholder image">
         </div>
     </div>
     <hr class="featurette-divider">

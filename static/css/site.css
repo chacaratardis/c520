@@ -117,3 +117,9 @@ main {
     border-top-left-radius: 0;
     border-top-right-radius: 0;
 }
+
+.panelcarrosel {
+    background-color: #00000066;
+    padding: 16px;
+    max-width: 640px;
+}
