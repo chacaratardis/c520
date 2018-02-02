@@ -24,20 +24,11 @@ Contato |Crie520
         <input type="email" id="inputEmail" class="form-control" placeholder="Endere&ccedil;o de e-mail" required autofocus>
         </br>
         <h4>Mensagem</h4>
-        <textarea id="message" placeholder="Mensagem"></textarea>
+        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder=" Mensagem" rows="9"></textarea>
         </br>
-        </br>
-        <button class="btn btn-lg btn-primary btn-block" type="submit">Enviar</button>
+        <button class="btn btn-lg btn-danger btn-block" type="submit">Enviar</button>
     </div>
 </form>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+</br>   
 
 {{end}}

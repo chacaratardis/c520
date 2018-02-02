@@ -14,7 +14,7 @@ Entrar |Crie520
     <br/>
     <br/>
     <form class="form-signin">
-        <h2 class="form-signin-heading">Entrar</h2>
+        <h2 class="form-signin-heading text-center">Entrar</h2>
         <label for="inputEmail" class="sr-only">Endere&ccedil;o de e-mail</label>
         <input type="email" id="inputEmail" class="form-control" placeholder="Endere&ccedil;o de e-mail" required autofocus>
         <label for="inputPassword" class="sr-only">Senha</label>
@@ -22,7 +22,7 @@ Entrar |Crie520
         <p>N&amacr;o &eacute; usu&aacute;rio? Ent&amacr;o
             <a href="/cadastrar">cadastre-se</a>.</p>
         <a href="/lista">
-            <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+            <button class="btn btn-lg btn-danger btn-block" type="submit">Entrar</button>
         </a>
     </form>
     <br/>
