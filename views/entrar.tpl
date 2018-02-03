@@ -13,7 +13,7 @@ Entrar |Crie520
     <br/>
     <br/>
     <br/>
-    <form class="form-signin">
+    <form class="form-signin" action="/lista">
         <h2 class="form-signin-heading text-center">Entrar</h2>
         <label for="inputEmail" class="sr-only">Endere&ccedil;o de e-mail</label>
         <input type="email" id="inputEmail" class="form-control" placeholder="Endere&ccedil;o de e-mail" required autofocus>
@@ -21,9 +21,8 @@ Entrar |Crie520
         <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required>
         <p>N&amacr;o &eacute; usu&aacute;rio? Ent&amacr;o
             <a href="/cadastrar">cadastre-se</a>.</p>
-        <a href="/lista">
-            <button class="btn btn-lg btn-danger btn-block" type="submit">Entrar</button>
-        </a>
+
+        <input class="btn bnt-lg btn-danger btn-block" type="submit" value="Submit">
     </form>
     <br/>
     <br/>
