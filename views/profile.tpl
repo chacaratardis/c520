@@ -62,7 +62,7 @@ Curr&iacute;culo |Crie520
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLongTitle">Habilidades</h5>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Alterar campo</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -95,7 +95,7 @@ Curr&iacute;culo |Crie520
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLongTitle">Hist&oacute;rico de trabalho</h5>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Alterar campo</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -127,7 +127,7 @@ Curr&iacute;culo |Crie520
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLongTitle">Hist&oacute;rico no site</h5>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Alterar campo</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -158,7 +158,7 @@ Curr&iacute;culo |Crie520
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLongTitle">Educa&ccedil;&amacr;o</h5>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Alterar campo</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
@@ -190,7 +190,7 @@ Curr&iacute;culo |Crie520
             <div class="modal-dialog modal-dialog-centered" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLongTitle">Outras experi&ecirc;ncias</h5>
+                        <h5 class="modal-title" id="exampleModalLongTitle">Alterar campo</h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
